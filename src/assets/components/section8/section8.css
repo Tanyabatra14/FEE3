@@ -1,0 +1,55 @@
+
+.design-7 {
+    margin: 157px 0 0;
+    padding: 62px 0 56px;
+    position: relative;
+    width: 100%; /* 1440px / 1440px = 100% */
+    z-index: 28;
+    background: url(images/yellow_shape.png) no-repeat center 0;
+    background-position: center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .l-constrained-2 {
+    height: 737px;
+    margin: 0 auto;
+    position: relative;
+    width: 1326px;
+  }
+  .buttom-16 {
+    left: 50%;
+    position: absolute;
+    top: 686px;
+    margin-left: -84px;
+  }
+  .place-your-image-here-double-click-to-edit-6 {
+    left: 50%;
+    position: absolute;
+    top: 127px;
+    margin-left: -588px;
+  }
+  .text-9 {
+    left: 50%;
+    position: absolute;
+    top: 0;
+    width: 491px;
+    margin-left: -246px;
+  }
+  .tittle-7 {
+    display: block;
+    margin: 0 auto;
+  }
+  .description-9 {
+    margin: 35px 0 0;
+    font-size: 1.302083rem; /* 20.83px / 16px = 1.301875rem */
+    text-align: center;
+  }
+  .buttom-17 {
+    margin: 608px 0 0;
+    color: #ffffff;
+    font-size: 1.302083rem; /* 20.83px / 16px = 1.301875rem */
+    font-weight: 600;
+    text-align: center;
+  }

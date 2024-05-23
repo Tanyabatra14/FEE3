@@ -1,0 +1,90 @@
+.wrapper {
+  height: 1028px;
+  margin: 77px auto 0;
+  position: relative;
+  width: 1326px;
+}
+.place-your-image-here-double-click-to-edit {
+  left: 50%;
+  position: absolute;
+  top: 0;
+  margin-left: -639px;
+}
+.design {
+  left: 50%;
+  position: absolute;
+  top: 370px;
+  width: 1206px;
+  margin-left: -589px;
+}
+.buttom {
+  display: block;
+  left: 151px;
+  margin: 0 auto;
+  position: relative;
+}
+.wrapper-5 {
+  margin: 175px 0 0;
+  padding: 0 0 36px;
+  position: relative;
+  width: 1206px;
+  background: url(images/shadow_2.png) no-repeat right bottom;
+}
+.row {
+  margin: 0 auto;
+  min-height: 407px;
+  padding: 93px 51px 93px 598px;
+  position: relative;
+  right: 15.5px;
+  width: 1175px;
+  background: url(images/grey_stats.png) no-repeat;
+}
+.graphics {
+  float: left;
+  margin: 0 87px 0 0;
+}
+.graphic-two {
+  float: left;
+  margin: 1px 0 0;
+}
+.text-2 {
+  left: 50%;
+  position: absolute;
+  top: 68px;
+  width: 1067px;
+  margin-left: -513px;
+}
+.tittle {
+  display: block;
+  left: 246px;
+  margin: 0 auto;
+  position: relative;
+}
+.description {
+  left: 299.5px;
+  margin: 34px auto 0;
+  position: relative;
+  width: 468px;
+  line-height: 1.2;
+}
+.buttom-2 {
+  margin: 43px 0 0 630px;
+  font-weight: bold;
+  text-align: left;
+}
+.subtittle {
+  display: block;
+  margin: 287px 0 0;
+  position: relative;
+}
+.description-2 {
+  margin: 13px 0 0;
+  width: 264px;
+  font-size: 1rem; /* 15.99px / 16px = 0.999375rem */
+  line-height: 1.2;
+}
+.buttom-3 {
+  margin: 16px 0 0;
+  font-size: 1.062661rem; /* 17px / 16px = 1.0625rem */
+  font-weight: bold;
+}

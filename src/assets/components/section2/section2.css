@@ -1,0 +1,53 @@
+
+.design-2 {
+    margin: -240px 0 0;
+    padding: 343px 0 114px;
+    position: relative;
+    width: 100%; /* 1440px / 1440px = 100% */
+    z-index: -10;
+    background: url(images/yellow_shape_2.png) no-repeat center 0;
+    background-position: center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .l-constrained-5 {
+    height: 708px;
+    margin: 0 auto;
+    position: relative;
+    width: 1326px;
+  }
+  .buttom-4 {
+    left: 50%;
+    position: absolute;
+    top: 331px;
+    margin-left: -620px;
+  }
+  .place-your-image-here-double-click-to-edit-1 {
+    left: 50%;
+    position: absolute;
+    top: 153px;
+    margin-left: -188px;
+  }
+  .text-3 {
+    left: 50%;
+    position: absolute;
+    top: 0;
+    width: 501px;
+    margin-left: -624px;
+  }
+  .tittle-2 {
+    display: block;
+  }
+  .description-3 {
+    margin: 29px 0 0 4px;
+    width: 373px;
+    line-height: 1.2;
+  }
+  .buttom-5 {
+    margin: 64px 0 0 40px;
+    color: #e5e5e5;
+    font-weight: bold;
+    text-align: left;
+  }

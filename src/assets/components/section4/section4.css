@@ -1,0 +1,56 @@
+.design-4 {
+    margin: 45px 0 0;
+    padding: 79px 0 61px;
+    position: relative;
+    z-index: 91;
+    background: #000000 center 0;
+    background-position: center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .l-constrained-4 {
+    height: 750px;
+    margin: 0 auto;
+    position: relative;
+    width: 1326px;
+  }
+  .buttom-8 {
+    height: 47px;
+    left: 50%;
+    position: absolute;
+    top: 703px;
+    width: 168px;
+    background-color: #e0c838; /*Layer's solid color*/
+    margin-left: -98px;
+  }
+  .place-your-image-here-double-click-to-edit-3 {
+    left: 50%;
+    position: absolute;
+    top: 120px;
+    margin-left: -467px;
+  }
+  .text-5 {
+    left: 50%;
+    position: absolute;
+    top: 0;
+    width: 616px;
+    margin-left: -308px;
+  }
+  .tittle-3 {
+    display: block;
+    margin: 0 auto;
+  }
+  .description-5 {
+    margin: 17px 0 0;
+    color: #ffffff;
+    line-height: 1.2;
+    text-align: center;
+  }
+  .buttom-9 {
+    margin: 629px 246px 0;
+    font-weight: bold;
+    text-align: left;
+  }
+  

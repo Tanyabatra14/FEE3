@@ -1,0 +1,58 @@
+.design-3 {
+    left: 11px;
+    margin: 93px auto 0;
+    min-height: 721px;
+    padding: 1px 0 48px;
+    position: relative;
+    width: 1252px;
+    z-index: 105;
+    background: url(images/shadow.png) no-repeat;
+  }
+  .place-your-image-here-double-click-to-edit-2 {
+    float: left;
+    margin: 0 -7px 0 0;
+    position: relative;
+    z-index: 111;
+  }
+  .col {
+    float: left;
+    min-height: 672px;
+    padding: 48px 55px;
+    position: relative;
+    width: 592px;
+    z-index: 106;
+    background: url(images/grey_shape_2.png) no-repeat;
+  }
+  .text-4 {
+    overflow: hidden;
+    position: relative;
+    width: 346px;
+    z-index: 114;
+  }
+  .subtittle-2 {
+    display: block;
+    margin: 0 auto;
+  }
+  .description-4 {
+    margin: 20px 0 0;
+    line-height: 1.2;
+  }
+  .buttom-6 {
+    margin: 56px 0 0 38px;
+    color: #e5e5e5;
+    font-weight: bold;
+    text-align: left;
+  }
+  .buttom-7 {
+    display: block;
+    margin: -33px 0 0;
+    position: relative;
+    z-index: 108;
+  }
+  .graphic-shape {
+    display: block;
+    left: 91px;
+    margin: 17px auto 0;
+    position: relative;
+    z-index: 107;
+  }

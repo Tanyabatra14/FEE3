@@ -1,0 +1,43 @@
+
+.group-5 {
+    margin: 120px auto 0;
+    padding: 0 39px;
+    position: relative;
+    width: 1326px;
+    z-index: 78;
+  }
+  .place-your-image-here-double-click-to-edit-4 {
+    float: left;
+    margin: 0 72px 0 0;
+  }
+  .col-2 {
+    float: left;
+    margin: 218px 0 0;
+    position: relative;
+    width: 388px;
+    z-index: 0;
+  }
+  .text-6 {
+    overflow: hidden;
+    position: relative;
+    z-index: 84;
+  }
+  .tittle-4 {
+    display: block;
+    position: relative;
+  }
+  .description-6 {
+    margin: 32px 0 0;
+    line-height: 1.2;
+  }
+  .buttom-10 {
+    margin: 57px 0 0 28px;
+    font-weight: 600;
+    text-align: left;
+  }
+  .buttom-11 {
+    display: block;
+    margin: -33px 0 0;
+    position: relative;
+    z-index: 81;
+  }

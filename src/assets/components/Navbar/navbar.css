@@ -1,0 +1,54 @@
+
+.toolbar {
+    margin: 0 auto;
+    padding: 9px 0 10px;
+    position: relative;
+    width: 100%; /* 1440px / 1440px = 100% */
+    background: url(images/menu_shape.png) no-repeat center 0;
+    background-position: center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .l-constrained-6 {
+    margin: 0 auto;
+    padding: 0 0 0 5px;
+    position: relative;
+    width: 1326px;
+  }
+  .vector-smart-object-double-click-to-edit {
+    float: left;
+  }
+  .menu-items {
+    float: right;
+    margin: 18px 0 0;
+    position: relative;
+    width: 381px;
+  }
+  .menu-items > * {
+    float: left;
+    margin: 0 27.13px 0 0;
+  }
+  .menu-items > *:last-child {
+    margin-right: 0 !important;
+  }
+  .happiness {
+    font-size: 0.997847rem; /* 15.97px / 16px = 0.998125rem */
+    font-weight: bold;
+  }
+  .books {
+    font-size: 0.997847rem; /* 15.97px / 16px = 0.998125rem */
+    font-weight: bold;
+    margin-top: 2px !important;
+  }
+  .text {
+    font-size: 0.997847rem; /* 15.97px / 16px = 0.998125rem */
+    font-weight: bold;
+    margin-top: 2px !important;
+  }
+  .contact {
+    font-size: 0.997847rem; /* 15.97px / 16px = 0.998125rem */
+    font-weight: bold;
+    margin-top: 2px !important;
+  }

@@ -1,0 +1,127 @@
+
+.group-7 {
+    height: 573px;
+    margin: 155px auto 0;
+    position: relative;
+    width: 1326px;
+    z-index: 42;
+  }
+  .design-6 {
+    left: 50%;
+    position: absolute;
+    top: 0;
+    width: 877px;
+    margin-left: -588px;
+  }
+  .col-5 {
+    float: left;
+    min-height: 573px;
+    padding: 96px 0;
+    position: relative;
+    width: 576px;
+    background: url(images/black_shape_2.png) no-repeat;
+  }
+  .row-3 {
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+  }
+  .box-one {
+    margin: 0 26px 0 0;
+  }
+  .row-3 > * {
+    display: inline-block;
+    vertical-align: top;
+  }
+  .box-three {
+    display: block;
+    margin: 39px auto 0;
+  }
+  .box-four {
+    display: block;
+    margin: 31px auto 0;
+  }
+  .box-five {
+    display: block;
+    margin: 31px auto 0;
+  }
+  .buttom-14 {
+    float: right;
+    margin: 398px 0 0;
+  }
+  .text-8 {
+    left: 50%;
+    position: absolute;
+    top: 64px;
+    width: 1113px;
+    margin-left: -536px;
+  }
+  .col-6 {
+    float: left;
+    position: relative;
+    width: 472px;
+  }
+  .row-4 {
+    margin: 0 0 0 1px;
+    position: relative;
+  }
+  .col-8 {
+    float: left;
+    margin: 0 160px 0 0;
+    position: relative;
+    width: 85px;
+  }
+  .name {
+    color: #ffffff;
+    font-weight: 600;
+  }
+  .email {
+    margin: 59px 0 0;
+    color: #ffffff;
+    font-weight: 600;
+  }
+  .password {
+    margin: 53px 0 0;
+    color: #ffffff;
+    font-weight: 600;
+  }
+  .message {
+    margin: 47px 0 0;
+    color: #ffffff;
+    font-weight: 600;
+  }
+  .surname {
+    float: left;
+    width: 83px;
+    color: #ffffff;
+    font-weight: 600;
+  }
+  .legal-info {
+    margin: 179px 0 0;
+    width: 472px;
+    color: #ffffff;
+    font-size: 0.78125rem; /* 12.5px / 16px = 0.78125rem */
+    line-height: 1.2;
+  }
+  .col-3 {
+    float: right;
+    margin: 50px 0 0;
+    position: relative;
+    width: 493px;
+  }
+  .tittle-6 {
+    display: block;
+    position: relative;
+  }
+  .description-8 {
+    margin: 23px 0 0;
+    font-size: 1.302083rem; /* 20.83px / 16px = 1.301875rem */
+    line-height: 1.2;
+  }
+  .buttom-15 {
+    margin: 67px 0 0 52px;
+    color: #ffffff;
+    font-size: 1.185276rem; /* 18.96px / 16px = 1.185rem */
+    font-weight: 600;
+    text-align: left;
+  }
